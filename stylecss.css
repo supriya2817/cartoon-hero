@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(194, 207, 207);
+}
+
+
+h1{
+font-size: 40px;
+color: rgba(57, 221, 70, 0.93);
+}
+h2{
+font-size: 40px;
+color: rgb(71, 122, 233);
+}
+.big{
+font-size: 40px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.lowercase{
+text-transform: lowercase;
+
+}
+.big.uppercase{
+color: black;
+}
+.big.lowercase{
+color: brown;
+}
+h1 span{
+color: blueviolet;
+}

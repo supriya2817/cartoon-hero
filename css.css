@@ -1,0 +1,55 @@
+body
+{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    
+}
+/* This is a CSS comment */
+header{
+   
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+ header h1{
+
+    font-size: 50px;
+    color:black;
+    
+ }
+ header img{
+    border-radius: 150px;
+    width: 200px;
+    border: 15px solid black;
+ } 
+
+ main{
+    max-width: 8000px;
+   margin: 0% auto;
+   padding: 0 20px 20px 50px;
+
+ }
+ main img{
+   max-width: 100%px;
+ }
+
+ h2{
+   font-size: 40px;
+   color: #008080;
+  
+ }
+ a{
+   color: #05aaaa;
+ }
+ a:hover{
+   color: white;
+   background-color: purple;
+ }
+/* padding is use for increasing size  */
+ footer{
+   text-align: center;
+   background-color: #05aaaa; padding: 20px;
+   margin: 40px 20px 20px;
+ }
+/*  (ctrl+/) for comment */
